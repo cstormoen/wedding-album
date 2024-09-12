@@ -5,6 +5,7 @@ A simple ASP.NET Core web application built for uploading and sharing photos.
 - User-friendly interface for uploading photos
 - Ability to view uploaded photos in a gallery
 - Responsive design for mobile devices
+- Translated into German, Norwegian and English
 
 ## Getting Started
 To run this application locally:
